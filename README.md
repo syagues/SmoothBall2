@@ -16,11 +16,11 @@ The game consists in avoid the platforms that fall with only one tap control. Pr
 
 ## ScreenShots
 
-<IMG width="200" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch1.webp"/>
-<IMG width="200" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch2.webp"/>
-<IMG width="200" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch3.webp"/>
-<IMG width="200" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch4.webp"/>
-<IMG width="200" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch5.webp"/>
-<IMG width="200" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch6.webp"/>
+<IMG width="100" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch1.webp"/>
+<IMG width="100" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch2.webp"/>
+<IMG width="100" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch3.webp"/>
+<IMG width="100" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch4.webp"/>
+<IMG width="100" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch5.webp"/>
+<IMG width="100" src="https://github.com/syagues/SmoothBall2/blob/master/readme/ch6.webp"/>
 
 
